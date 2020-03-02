@@ -1,8 +1,8 @@
 # Machine learning algorithm decision
-
+## Kaggle competition 🏅
  ML project for Ironhack coding school.
 
-In this Kaggle competition (https://www.kaggle.com/c/diamonds-datamad0120) we decide which ML algortihm predicts better the dataset given.
+In this Kaggle competition  (https://www.kaggle.com/c/diamonds-datamad0120) we decide which ML algortihm predicts better the dataset given.
 
 The goal is to find an algorithm that, given unknown feature variables, is able to predict better the price of a diamond as accurately as possible.
 
