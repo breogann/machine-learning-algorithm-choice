@@ -11,3 +11,10 @@ The goal is to find an algorithm that, given unknown feature variables, is able 
 Dataset was formed by 10 columns: ID, price and 8 others describing diamonds physical properties such as carats anda sizes.
 
 ![Dataset preview](https://github.com/breogann/machine-learning-algorithm-choice/blob/master/Images/data_preview.png)
+
+
+## Process ##
+
+First, we clean the dataset understanding how data is distributed and what variables could weigh in in the prediction. 
+
+Then, through trial and error we test different ML algorithms to see which ones accomodate better to the test data and upload it to Kaggle to evaluate the performance of the model. 
