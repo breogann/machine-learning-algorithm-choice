@@ -13,7 +13,9 @@ The goal is to find an algorithm that, given unknown feature variables, is able 
 
 Dataset was formed by 10 columns: ID, price and 8 others describing diamonds physical properties such as carats and sizes.
 
-![Dataset preview](https://github.com/breogann/machine-learning-algorithm-choice/blob/master/Images/data_preview.png)
+<p align="center">
+  <img width="600" height="150" src="https://github.com/breogann/machine-learning-algorithm-choice/blob/master/Images/data_preview.png" alt="Dataset preview">
+</p>
 
 
 ## Process ##
