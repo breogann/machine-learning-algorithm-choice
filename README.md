@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="1000" height="300" src="https://github.com/breogann/machine-learning-algorithm-choice/blob/master/Images/cover.png" alt="Algorithm selection">
+</p>
+
 # Machine learning algorithm decision
 ## Kaggle competition 🏅
  ML project for Ironhack coding school.
