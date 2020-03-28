@@ -9,7 +9,9 @@ In this Kaggle competition (https://www.kaggle.com/c/diamonds-datamad0120) we de
 
 The goal is to find an algorithm that, given unknown feature variables, is able to predict the price of a diamond as accurately as possible.
 
-## Data ##
+Position: 2nd place! 🚀
+
+## Data 📊 ##
 
 Dataset was formed by 10 columns: ID, price and 8 others describing diamonds physical properties such as carats and sizes.
 
@@ -18,8 +20,19 @@ Dataset was formed by 10 columns: ID, price and 8 others describing diamonds phy
 </p>
 
 
-## Process ##
+## Data processing 🛠 ## 
 
 First, we clean the dataset understanding how data is distributed and what variables could weigh in in the prediction. 
 
 Then, through trial and error we test different ML algorithms to see which ones accomodate better to the test data and upload it to Kaggle to evaluate the performance of the model. 
+
+#### Used technologies 🔌: ####
+- SKLearn
+  - SVR (Support Vector Regressor)
+  - Random Forest Regressor
+  - Gradient Booster Regressor
+
+#### Used libraries 📚: ####
+- Pandas
+- Numpy
+- Seaborn
