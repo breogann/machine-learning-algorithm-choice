@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1000" height="300" src="https://github.com/breogann/machine-learning-algorithm-choice/blob/master/Images/cover.png" alt="Algorithm selection">
+  <img width="1000" height="300" src="./Images/cover.png" alt="Algorithm selection">
 </p>
 
 # Machine learning algorithm decision
@@ -9,14 +9,14 @@ In this Kaggle competition (https://www.kaggle.com/c/diamonds-datamad0120) we de
 
 The goal is to find an algorithm that, given unknown feature variables, is able to predict the price of a diamond as accurately as possible.
 
-Position: 2nd place! 🚀
+_Position: 2nd place! 🚀_
 
 ## Data 📊 ##
 
 Dataset was formed by 10 columns: ID, price and 8 others describing diamonds physical properties such as carats and sizes.
 
 <p align="center">
-  <img width="500" height="200" src="https://github.com/breogann/machine-learning-algorithm-choice/blob/master/Images/data_preview.png" alt="Dataset preview">
+  <img width="500" height="200" src="./Images/data_preview.png" alt="Dataset preview">
 </p>
 
 
@@ -36,3 +36,6 @@ Then, through trial and error we test different ML algorithms to see which ones 
 - Pandas
 - Numpy
 - Seaborn
+
+
+[On github pages](https://breogann.github.io/Project-5.Machine-learning-algorithm-selection/)
